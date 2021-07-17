@@ -62,6 +62,11 @@
 	background: black;
 	color: white;
 }
+.image-me
+{
+	width: 100%
+}
+
 @media screen and (max-width: 800px) {
   *{
     width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
