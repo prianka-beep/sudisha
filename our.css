@@ -62,8 +62,8 @@
 	background: black;
 	color: white;
 }
-@media screen and (max-width: 769px) and (max-width: 1200px)
-{
-	.m{
-	width: 100%;}
-}
+@media screen and (max-width: 800px) {
+  *{
+    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+
